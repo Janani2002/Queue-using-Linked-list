@@ -1,6 +1,3 @@
-# Queue-using-Linked-list
-# DSA Project 1
-
 #include<iostream>
 #include<string>
 #include<cstring>
