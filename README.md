@@ -2,7 +2,6 @@
 #include<string>
 #include<cstring>
 using namespace std;
-
 class Node 
 {
   public:
